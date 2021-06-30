@@ -23,12 +23,12 @@ I am an Electronics and Embedded Engineer
 
 
 ## Statistics
-[![Pranjal's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalchanda08&theme=white)](https://github.com/anuraghazra/github-readme-stats)
+[![Pranjal's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalchanda08&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=pranjalchanda08&theme=white)](https://github.com/pranjalchanda08/github-readme-streak-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=pranjalchanda08&theme=ayu-mirage)](https://github.com/pranjalchanda08/github-readme-streak-stats)
 
-[![Pranjal's github stats](https://github-readme-stats.vercel.app/api?username=pranjalchanda08&theme=white)](https://github.com/pranjalchanda08/github-readme-stats)
+[![Pranjal's github stats](https://github-readme-stats.vercel.app/api?username=pranjalchanda08&theme=ayu-mirage)](https://github.com/pranjalchanda08/github-readme-stats)
 
 ## Socials
-[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjal-chanda/)
+[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=ayu-mirage)](https://www.linkedin.com/in/pranjal-chanda/)
 
