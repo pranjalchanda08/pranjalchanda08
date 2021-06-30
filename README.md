@@ -23,7 +23,7 @@ I am an Electronics and Embedded Engineer
 
 
 ## Statistics
-[![Pranjal's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalchanda08&theme=ayu-mirage&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Pranjal's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalchanda08&theme=ayu-mirage&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=pranjalchanda08&theme=ayu-mirage&show_icons=true)](https://github.com/pranjalchanda08/github-readme-streak-stats)
 
