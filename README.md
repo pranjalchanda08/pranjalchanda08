@@ -1,7 +1,7 @@
 # Pranjal Chanda
 I am an Electronics and Embedded Engineer
 
-- 🔭 I’m currently working Mediapipe based projects: check my [repo](https://github.com/pranjalchanda08/MediaPipe-Project)
+- 🔭 I’m currently working on Google's Media Pipe based projects: check my [repo](https://github.com/pranjalchanda08/MediaPipe-Project)
 - 🌱 I’m currently learning OpenCV and MediaPipe usage
 - 👯 I’m looking to collaborate on image processing and machine learning
 - 💬 Ask me about Enbedded Systems, IoT , OpenCV and more
